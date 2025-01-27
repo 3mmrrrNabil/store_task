@@ -3,7 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-
+### Home Screen
+![Home Screen](assets/Screenshot 2025-01-27 041440.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
