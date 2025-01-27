@@ -1,8 +1,4 @@
-
-
 import 'package:flutter/material.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-
 class favorite_widget extends StatelessWidget {
   const favorite_widget({
     super.key,

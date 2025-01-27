@@ -1,9 +1,5 @@
-
-
-
 import 'package:flutter/material.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-import 'package:store/features/home/domain/entites/card_entites.dart';
+import 'package:store_task_route/features/home/domain/entites/card_entites.dart';
 
 class descrption_text_widget extends StatelessWidget {
   const descrption_text_widget({

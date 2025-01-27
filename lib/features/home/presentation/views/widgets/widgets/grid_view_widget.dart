@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:store/features/home/domain/entites/card_entites.dart';
-import 'package:store/features/home/presentation/views/widgets/Custom_card_widget.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-
+import 'package:store_task_route/features/home/domain/entites/card_entites.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/Custom_card_widget.dart';
 class grid_view_widget extends StatelessWidget {
   const grid_view_widget({
     super.key,

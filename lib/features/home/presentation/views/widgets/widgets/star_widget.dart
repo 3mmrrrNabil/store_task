@@ -1,8 +1,4 @@
-
-
 import 'package:flutter/material.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-
 class star_widget extends StatelessWidget {
   const star_widget({
     super.key,

@@ -1,6 +1,6 @@
-import 'package:store/core/usecases/no_param_usecse.dart';
-import 'package:store/features/home/domain/entites/card_entites.dart';
-import 'package:store/features/home/domain/repos/home_repo.dart';
+import 'package:store_task_route/core/use_cases/no_param_usecse.dart';
+import 'package:store_task_route/features/home/domain/entites/card_entites.dart';
+import 'package:store_task_route/features/home/domain/repos/home_repo.dart';
 
 class FetchProductsUsecase extends UseCase<List<CardEntites>> {
 

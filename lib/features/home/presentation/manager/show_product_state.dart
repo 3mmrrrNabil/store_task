@@ -1,6 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-import 'package:store/features/home/domain/entites/card_entites.dart';
+import 'package:store_task_route/features/home/domain/entites/card_entites.dart';
 abstract class ProductsState extends Equatable {
   const ProductsState();
 

@@ -1,7 +1,7 @@
-import 'package:store/core/api/dio_consumer.dart';
-import 'package:store/core/api/end_points.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-import 'package:store/features/home/domain/entites/card_entites.dart';
+import 'package:store_task_route/core/api/dio_consumer.dart';
+import 'package:store_task_route/core/api/end_points.dart';
+import 'package:store_task_route/features/home/data/models/card_model.dart';
+import 'package:store_task_route/features/home/domain/entites/card_entites.dart';
 
 abstract class HomeRemoreDatasources {
 

@@ -1,15 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:store/features/home/domain/entites/card_entites.dart';
-import 'package:store/features/home/presentation/views/widgets/add_widget.dart';
-import 'package:store/features/home/presentation/views/widgets/category_text_widget.dart';
-import 'package:store/features/home/presentation/views/widgets/descreption_text_widget.dart';
-import 'package:store/features/home/presentation/views/widgets/favorite_widget.dart';
-import 'package:store/features/home/presentation/views/widgets/image_container_widget.dart';
-import 'package:store/features/home/presentation/views/widgets/price_text_widget.dart';
-import 'package:store/features/home/presentation/views/widgets/review_text_widget.dart';
-import 'package:store/features/home/presentation/views/widgets/star_widget.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-
+import 'package:store_task_route/features/home/domain/entites/card_entites.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/add_widget.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/category_text_widget.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/descreption_text_widget.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/favorite_widget.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/image_container_widget.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/price_text_widget.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/review_text_widget.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/star_widget.dart';
 class CustomCard extends StatelessWidget {
   const CustomCard({
     super.key,

@@ -1,9 +1,6 @@
 
-
 import 'package:flutter/material.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-import 'package:store/features/home/domain/entites/card_entites.dart';
-
+import 'package:store_task_route/features/home/domain/entites/card_entites.dart';
 class review_text_widget extends StatelessWidget {
   const review_text_widget({
     super.key,

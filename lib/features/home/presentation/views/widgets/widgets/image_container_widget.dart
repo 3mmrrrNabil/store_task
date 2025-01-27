@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:store/features/home/data/models/getProductsModel.dart';
-import 'package:store/features/home/domain/entites/card_entites.dart';
+import 'package:store_task_route/features/home/domain/entites/card_entites.dart';
 
 class image_container_widget extends StatelessWidget {
   const image_container_widget({

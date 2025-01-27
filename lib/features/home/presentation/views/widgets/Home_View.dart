@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:store/features/home/presentation/views/widgets/grid_view_widget.dart';
-import '../manager/show_product_state.dart';
-import '../manager/show_products_cubit.dart';
+import 'package:store_task_route/features/home/presentation/manager/show_product_state.dart';
+import 'package:store_task_route/features/home/presentation/manager/show_products_cubit.dart';
+import 'package:store_task_route/features/home/presentation/views/widgets/widgets/grid_view_widget.dart';
 
 class HomeView extends StatefulWidget {
   const HomeView({super.key});

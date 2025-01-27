@@ -1,12 +1,11 @@
 import 'package:dio/dio.dart';
-
-import '../errors/exeptions.dart';
+import 'package:store_task_route/core/errors/exeptions.dart';
 import 'api_consumer.dart';
 
 class DioConsumer extends ApiConsumer {
 
 
-  final Dio dio=Dio();
+  final Dio dio =Dio();
 
 
   @override

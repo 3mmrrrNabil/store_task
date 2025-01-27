@@ -1,7 +1,7 @@
 
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:store/features/home/domain/use_cases/fetch_products_usecase.dart';
-import 'package:store/features/home/presentation/manager/show_product_state.dart';
+import 'package:store_task_route/features/home/domain/use_cases/fetch_products_usecase.dart';
+import 'package:store_task_route/features/home/presentation/manager/show_product_state.dart';
 
 
 class ProductsCubit extends Cubit<ProductsState> {
